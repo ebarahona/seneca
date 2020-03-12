@@ -84,7 +84,7 @@
     "json-stringify-safe": "5.0.1",
     "jsonic": "0.3.0",
     "lodash": "4.17.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "nid": "0.3.2",
     "norma": "0.3.0",
     "ordu": "0.1.1",
